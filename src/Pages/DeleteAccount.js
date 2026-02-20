@@ -30,7 +30,7 @@ const DeleteAccount = () => {
         {/* 🔝 Added section */}
         <div className="mb-6">
           <p className="text-lg font-bold text-gray-800">
-            Delete your SIMCURARX account
+            Delete your SIMCURARX RIDER account
           </p>
         </div>
 
